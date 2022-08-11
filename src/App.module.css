@@ -2,6 +2,7 @@
     max-width: 70rem;
     margin: 2rem auto;
     padding: 0 1rem;
+    margin-top: 115px;
 
     display: grid;
     grid-template-columns: 256px 1fr;
